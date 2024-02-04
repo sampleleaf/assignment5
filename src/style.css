@@ -1,0 +1,20 @@
+.counterList{
+    width: 300px;
+    margin: 30px auto;
+    padding: 30px;
+    border: 1px solid rgb(190, 190, 190);
+}
+
+button{
+    width: 60px;
+    padding: 3px 0;
+    margin: 10px 20px 10px 0;
+    border: 1px solid rgb(36, 36, 36);
+    background-color: transparent;
+    cursor: pointer;
+}
+
+button:last-child{
+    width: auto;
+    padding: 3px 15px;
+}
